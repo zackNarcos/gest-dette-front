@@ -1,0 +1,4 @@
+enum SearchLocationType {
+  source,
+  destination,
+}
